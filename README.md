@@ -1,1 +1,3 @@
 # Quantum-Machine-Learning-with-PennyLane
+
+This project involved developing a hybrid quantum-classical model for binary classification using PennyLane. Classical input data was preprocessed and encoded into quantum states via amplitude encoding. A parameterized quantum circuit was built with rotation gates and entanglement layers to process the data. The model was optimized using gradient-based techniques (Adam optimizer) and evaluated with a binary cross-entropy loss function. Visualization of decision boundaries and loss convergence confirmed the model’s effectiveness. The project showcased quantum-enhanced machine learning and was designed to extend to multi-class classification or larger datasets.
